@@ -13,6 +13,7 @@ monarch
 https://monarch.codechrysalis.io/student/schedule
 
 
-slack
+slack 上側がDIG
 https://join.slack.com/t/digitalinnova-gl65097/shared_invite/zt-10l9f39xs-FpGTdr2~ejBIfZARMy7f5g
 https://app.slack.com/client/T02DS9VKWLU/C02DL43EKMG
+
